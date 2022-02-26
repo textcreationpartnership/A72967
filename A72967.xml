@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orders made and set downe by the iustices of peace, at the generall sessions of the peace, holden at Oxford the xith of Ianuarie 1613 and in the xith yeare of the raigne of our soveraigne lord King Iames of England &amp;c.</title>
+            <author>University of Oxford.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1614</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72967</idno>
+            <idno type="STC">STC 19003</idno>
+            <idno type="STC">ESTC S125503</idno>
+            <idno type="EEBO-CITATION">99898214</idno>
+            <idno type="PROQUEST">99898214</idno>
+            <idno type="VID">173642</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72967)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173642)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2082:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Orders made and set downe by the iustices of peace, at the generall sessions of the peace, holden at Oxford the xith of Ianuarie 1613 and in the xith yeare of the raigne of our soveraigne lord King Iames of England &amp;c.</title>
+                  <author>University of Oxford.</author>
+               </titleStmt>
+               <extent>2 sheets  (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>J. Barnes,</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>1614]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from STC.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>University of Oxford --  Sources --  Early works to 1800.</term>
+               <term>Markets --  England --  Oxford --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:173642:1"/>
+            <!-- PDF PAGE 62 -->
+            <head>Orders made and ſet downe by the Iuſtices of peace, at the generall Seſsions of the peace, holden at Oxford the xi<hi rend="sup">th</hi> of Ianuarie 1613. and in the xi<hi rend="sup">th</hi> yeare of the raigne of our Soveraigne Lord King Iames of England &amp;c.</head>
+            <p n="1">1 IT is ordred that no Badger ſhall buy any Corne in any Market without ſhewing his Licence firſt to the cheefe officer of the ſame towne, and none to buy but in open market nor any greater proportion then ſuch officer ſhall allow of, or a Iuſtice of peace of the deviſion next adioyning.</p>
+            <p n="2">2 That they buy no manner of graine but with their owne ſtockes, and that they doe afford of the ſame Corne weekely to the vſe of the poore of the ſame towne ſuch a proportion as the ſaid officer ſhall appoint vj<hi rend="sup">d</hi> in a buſhell better cheape then the ſaid Badger bona fide paid for the ſame.</p>
+            <p n="3">3 That the Iuſtices of peace of every deviſion doe cauſe a view to be taken of eve<g ref="char:EOLhyphen"/>ry mans ſtore of Corne and Graine, both Iuſtices as others aſwell in their barnes as elſewhere, and vpon ſuch view taken to apportion weekely ſo much thereof, as ſhall be caried to the Markets to be ſold, and where, and no more Barley to bee converted into Malt then ſhall be likewiſe by them appointed.</p>
+            <p n="4">4 That all Licences ſhall be revoked at the pleaſure of any two Iuſtices of peace of the ſaid Countie.</p>
+            <p n="5">5 That none ſhall make any Malt but a houſholder and that in his owne houſe, and in one houſe only, and that none vntill the next generall Seſſions doe make Malt, but ſuch as haue no other trade or meanes to liue by, ſauing for the proviſion of him<g ref="char:EOLhyphen"/>ſelfe and his familie only.</p>
+            <p n="6">6 That no Alſehouſe keeper ſell Ale or Beere aboue a penie the Ale quart the beſt, and two quarts a penie the ſmalleſt.</p>
+            <p n="7">7 That all Conſtables of hundreds, and all vnder conſtables within this Countie ſhall giue a true note of the names of all Alehouſe keepers, as well licenſed as vnlicen<g ref="char:EOLhyphen"/>ſed, within their ſeverall hundreds and liberties at the next quarter Seſſions, that the Iuſtices of peace may then take order for allowance of ſuch as ſhall be thought fit, and for ſuppreſſing of others.</p>
+            <p n="8">8 That warning be giuen to all the vnderconſt: that every one within his ſeverall pariſh, or limit, doe take heed that no Cottage be newly builded, but that every Con<g ref="char:EOLhyphen"/>ſtable when he ſhall ſee any ſtuffe, as ſtone, claye, or timber, provided by any inhabiting within his pariſh, minded to build a Cottage, ſhall ſpeedily giue notice thereof vnto the Iuſtices of peace for that limit, that the ſaid Iuſtice of peace may take preſent or<g ref="char:EOLhyphen"/>der for the ſuppreſſing thereof. And becauſe the penalties of Inmates by the law are due vnto the Lord of every Leet, it is therefore ordered that every Lord of ſuch leete that ſhall ſuffer any Inmate to come into his Mannour there to inhabite contrary to the law, ſhall free and diſcharge the pariſh of any charge that may happen vnto it by reaſon of ſuch Inmates.</p>
+            <p n="9">
+               <pb facs="tcp:173642:2"/>
+               <!-- PDF PAGE 63 -->9 That a ſufficient watch as well by day as by night, bee duely kept through this whole Countie for the apprehenſion of Rogues and Vagabonds, and that the high Conſtables doe within their ſeverall hundreds, not only giue order for the obſervati<g ref="char:EOLhyphen"/>on hereof to the pettie Conſtables within the ſame, but alſo that they the ſaid high Conſtables doe with all care and diligence informe themſelues of all ſuch perſons as they ſhall finde remiſſe herein, and to make preſentment monthly vnto vs his Highnes Iuſtices of the peace, as well of all ſuch officers as ſhall neglect the puniſhment of ſuch Rogues and Vagabonds, as of ſuch as ſhall giue almes vnto any of them, aſſuring them that as well the one as the other found faltie herein, ſhall truely pay the ſeverall penal<g ref="char:EOLhyphen"/>ties in the late Statute mentioned concerning the ſame. And further, we the ſaid Iuſti<g ref="char:EOLhyphen"/>ces doe agree to take information of theſe things within our ſeverall diviſions once in every month,</p>
+            <p n="10">10 That every Towneſhip or Village through which any Rogue ſhall paſſe vnpu<g ref="char:EOLhyphen"/>niſhed ſhall be charged with keeping the ſaid Rogue, vntill they can provide for the keeping of ſuch a Rogue at the place of his or hir birth or laſt dwelling for the ſpace of one whole yeare.</p>
+            <p n="11">11 That the Conſtable of every hundred ſhall appoint a watch to be kept at ſuch place and places within their hundreds, where any Feaſt or Wake is to be kept in man<g ref="char:EOLhyphen"/>ner following, viz. the night before the Feaſt or Wake day, the whole Wake day and the next night following, as well for the keeping forth of ſuch diſordred people as ſhal come to the ſaid Wake, as for the apprehenſion of them when they be there, and brin<g ref="char:EOLhyphen"/>ging them to the Iuſtice of peace next adioyning, and to ſee there be no gaming vſed there, and that the Conſtables doe preſent at whoſe houſes ſuch diſordered perſons doe reſort.</p>
+            <p n="12">12 That in every hundred within this Countie there ſhall be overſeers appointed by the Iuſtices of peace withi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their ſeverall diviſions, to haue due regard to ſee theſe orders to be put in execution accordingly, and for their paines, they ſhall haue the third part of all the penalties which ſhall ariſe by the breaking of any theſe orders, &amp; the other two parts to be to the poore of the ſeverall pariſhes where any ſuch offen<g ref="char:EOLhyphen"/>ces are committed.</p>
+            <p n="13">13 Provided alwaies that the Iuſtices of peace in their ſeverall diviſions or the maior part of them ſhall haue power to alter or change any of theſe Articles as they ſhall ſee cauſe.</p>
+            <pb facs="tcp:173642:3"/>
+            <!-- PDF PAGE 64 -->
+            <pb facs="tcp:173642:4"/>
+            <!-- PDF PAGE 65 -->
+            <pb facs="tcp:173642:5"/>
+            <!-- PDF PAGE 66 -->
+            <pb facs="tcp:173642:6"/>
+            <!-- PDF PAGE 67 -->
+         </div>
+      </body>
+   </text>
+</TEI>
